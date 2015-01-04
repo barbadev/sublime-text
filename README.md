@@ -8,6 +8,8 @@ Raccourcis
   * **cmd + shift + p** : recherche actions, uppercase, lowercase ou snippet
   * **cmd + r** : recherche de code
 
+Raccourics souris
+
   * **cmd + clic gauche** : multisélections de points de saisie
   * **alt + Scroll de la souris** : multisélection de points de saisie
 
